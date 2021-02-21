@@ -26,3 +26,5 @@
 
 
 before running the project, be sure to add your own firebase api in the app js and npm install.
+
+### AND I PERSONALLY USE IT
